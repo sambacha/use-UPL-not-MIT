@@ -2,6 +2,12 @@
 
 use the UPL-1.0 license and not the MIT License 
 
+![](https://img.shields.io/badge/license-upl--1.0-black)
+
+```
+![](https://img.shields.io/badge/license-upl--1.0-black)
+```
+
 > [source, https://oss.oracle.com/licenses/upl/](https://oss.oracle.com/licenses/upl)
 
 - [spdx https://spdx.org/licenses/UPL-1.0.html](https://spdx.org/licenses/UPL-1.0.html)
