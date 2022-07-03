@@ -12,6 +12,30 @@ use the UPL-1.0 license and not the MIT License
 
 - [spdx https://spdx.org/licenses/UPL-1.0.html](https://spdx.org/licenses/UPL-1.0.html)
 
+
+## Readme Section:
+
+<pre>
+ ## License
+ 
+ Licensed under either of
+
+ * Universal Permissive License 1.0
+   ([LICENSE-UPL](LICENSE-UPL) or https://opensource.org/licenses/UPL)
+
+ * Apache License, Version 2.0
+   ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+ 
+ at your option.
+
+ ### Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in the work by you, as defined in the Universal Permissive License v 1.0 
+license, shall be dual licensed as above, without any additional terms or conditions.
+</pre>
+
+
 # Universal Permissive License FAQ
 
 > Excerpt
